@@ -1,28 +1,11 @@
-## Text Sentiment Analysis using Caikit and Hugging Face
-## IBMSkillsNetwork GPXX0PYAEN
----
-### Author : Cognitive Class AI
-### Mentee assignment from IBM Advance AI @ Infinite Learning Course completion of Text Sentiment Analysis using Caikit and Hugging Face from CognitiveClass.ai
----
-### Mentee Info
-### - Name : Arifian Saputra
-### - Program : IBM Advance AI @ Infinite Learning
+# 📊 Analisis Sentimen Teks dengan Caikit dan Hugging Face
 
-### Tech Stack
-### - Python
---- 
-### Documentation
-1. Install the requirements
-```
-pip install -r requirements.txt
-```
-2. Start the runtime
-```
-python start_runtime.py
-```
-3. Run the sentiment analysis in another terminal tab
-```
-python client.py
-```
+Proyek ini memperkenalkan cara melakukan **Analisis Sentimen Teks** menggunakan **Caikit** dan pustaka **Transformers dari Hugging Face**. Analisis sentimen membantu mengidentifikasi emosi atau sikap dalam teks, sehingga kita dapat memahami apakah pernyataan memiliki sentimen **positif**, **negatif**, atau **netral**.
 
+### Contoh Teks yang Dianalisis
+- _"Makanan di restoran itu mengecewakan."_
+- _"Dia selalu mengabaikan pesan saya."_
 
+Dengan bantuan **Caikit**, implementasi model menjadi lebih sederhana, dan **Hugging Face** menyediakan akses ke model bahasa siap pakai untuk tugas **Pemrosesan Bahasa Alami** (NLP) seperti analisis sentimen ini.
+
+Proyek ini ditulis dalam **Python** dan mudah diikuti dengan beberapa baris kode untuk langsung melakukan analisis sentimen.
